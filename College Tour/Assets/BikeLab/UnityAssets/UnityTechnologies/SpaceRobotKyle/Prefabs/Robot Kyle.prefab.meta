@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d079cd0e6137a44b58864c3a91ad119a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285425
+  packageName: Bike Lab Demo
+  packageVersion: 1.0
+  assetPath: Assets/BikeLab/UnityAssets/UnityTechnologies/SpaceRobotKyle/Prefabs/Robot
+    Kyle.prefab
+  uploadId: 672212

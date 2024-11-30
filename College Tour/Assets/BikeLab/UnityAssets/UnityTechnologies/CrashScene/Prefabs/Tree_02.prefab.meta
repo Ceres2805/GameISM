@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c19e1866b5a23804b808ce07121c0239
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285425
+  packageName: Bike Lab Demo
+  packageVersion: 1.0
+  assetPath: Assets/BikeLab/UnityAssets/UnityTechnologies/CrashScene/Prefabs/Tree_02.prefab
+  uploadId: 672212

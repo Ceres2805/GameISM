@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: da3ae7e2982e5214ea6cfa6941ad44b2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 13400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285425
+  packageName: Bike Lab Demo
+  packageVersion: 1.0
+  assetPath: Assets/BikeLab/Motoball/PhysicMaterials/Ball.physicMaterial
+  uploadId: 672212

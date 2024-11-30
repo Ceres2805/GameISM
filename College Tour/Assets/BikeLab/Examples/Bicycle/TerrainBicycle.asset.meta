@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e0d8a83a2bbf97a45b6036f3ec1fdfab
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 15600000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285425
+  packageName: Bike Lab Demo
+  packageVersion: 1.0
+  assetPath: Assets/BikeLab/Examples/Bicycle/TerrainBicycle.asset
+  uploadId: 672212

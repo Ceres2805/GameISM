@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: abb6fd2d3fd90ca40b557b77be6516f4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285425
+  packageName: Bike Lab Demo
+  packageVersion: 1.0
+  assetPath: Assets/BikeLab/UnityAssets/UnityTechnologies/CrashScene/Prefabs/Buidling_02.prefab
+  uploadId: 672212

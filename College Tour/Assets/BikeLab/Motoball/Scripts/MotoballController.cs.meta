@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5757922bdede91d43ad124c72b9b904a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285425
+  packageName: Bike Lab Demo
+  packageVersion: 1.0
+  assetPath: Assets/BikeLab/Motoball/Scripts/MotoballController.cs
+  uploadId: 672212

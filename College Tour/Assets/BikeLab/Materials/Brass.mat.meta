@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e884918dc9144e14bb1d567f000b53d9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285425
+  packageName: Bike Lab Demo
+  packageVersion: 1.0
+  assetPath: Assets/BikeLab/Materials/Brass.mat
+  uploadId: 672212

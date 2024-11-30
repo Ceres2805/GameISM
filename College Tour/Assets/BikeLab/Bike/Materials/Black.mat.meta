@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3c45628f0abd81d49a050038b1d0bcb7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285425
+  packageName: Bike Lab Demo
+  packageVersion: 1.0
+  assetPath: Assets/BikeLab/Bike/Materials/Black.mat
+  uploadId: 672212

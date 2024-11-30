@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c1d6ab38b6720f843b9324ecbbf93284
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285425
+  packageName: Bike Lab Demo
+  packageVersion: 1.0
+  assetPath: Assets/BikeLab/Prefabs/Forks.prefab
+  uploadId: 672212

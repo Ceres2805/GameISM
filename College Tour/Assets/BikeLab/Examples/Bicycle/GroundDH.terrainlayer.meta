@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 69aa507541490234d800c5c99e0651f4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285425
+  packageName: Bike Lab Demo
+  packageVersion: 1.0
+  assetPath: Assets/BikeLab/Examples/Bicycle/GroundDH.terrainlayer
+  uploadId: 672212

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2ce0c169dc4df4b489581ca63b72c1f9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285425
+  packageName: Bike Lab Demo
+  packageVersion: 1.0
+  assetPath: Assets/BikeLab/Prefabs/Bike.prefab
+  uploadId: 672212

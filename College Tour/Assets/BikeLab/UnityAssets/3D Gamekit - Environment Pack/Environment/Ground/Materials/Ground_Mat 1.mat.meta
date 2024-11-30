@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5f10d7facb10df64090264b9e6d60669
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285425
+  packageName: Bike Lab Demo
+  packageVersion: 1.0
+  assetPath: Assets/BikeLab/UnityAssets/3D Gamekit - Environment Pack/Environment/Ground/Materials/Ground_Mat
+    1.mat
+  uploadId: 672212

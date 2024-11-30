@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b5167a995dc4f904584a37a9f92124b8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285425
+  packageName: Bike Lab Demo
+  packageVersion: 1.0
+  assetPath: Assets/BikeLab/UnityAssets/UnityTechnologies/CrashScene/Prefabs/RegCar.prefab
+  uploadId: 672212

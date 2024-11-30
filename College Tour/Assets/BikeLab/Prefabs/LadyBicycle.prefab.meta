@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e3d4ddaeaa2ba564697c1ec4ca1cb4c0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285425
+  packageName: Bike Lab Demo
+  packageVersion: 1.0
+  assetPath: Assets/BikeLab/Prefabs/LadyBicycle.prefab
+  uploadId: 672212

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7fd6b748538fd9e4ea6d45e6a2aa9077
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285425
+  packageName: Bike Lab Demo
+  packageVersion: 1.0
+  assetPath: Assets/BikeLab/Examples/RoadRacing/Materials/Yelow.mat
+  uploadId: 672212

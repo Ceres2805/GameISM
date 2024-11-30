@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: baf77712e7f53f34e83c9bc0d3bd654f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285425
+  packageName: Bike Lab Demo
+  packageVersion: 1.0
+  assetPath: Assets/BikeLab/Prefabs/SpeedLimits.prefab
+  uploadId: 672212

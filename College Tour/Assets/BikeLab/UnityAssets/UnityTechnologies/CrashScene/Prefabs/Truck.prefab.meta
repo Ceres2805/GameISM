@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b24e15c3f1fdbff46a22a30fd814f0e9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285425
+  packageName: Bike Lab Demo
+  packageVersion: 1.0
+  assetPath: Assets/BikeLab/UnityAssets/UnityTechnologies/CrashScene/Prefabs/Truck.prefab
+  uploadId: 672212

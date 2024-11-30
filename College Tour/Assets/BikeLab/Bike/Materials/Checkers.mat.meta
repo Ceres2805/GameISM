@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9beb039b34814704ebb18edf50090267
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285425
+  packageName: Bike Lab Demo
+  packageVersion: 1.0
+  assetPath: Assets/BikeLab/Bike/Materials/Checkers.mat
+  uploadId: 672212

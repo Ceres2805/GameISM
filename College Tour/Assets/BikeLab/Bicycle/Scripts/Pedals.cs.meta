@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d6bb84a7dab859d4a8b625905d2ea360
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285425
+  packageName: Bike Lab Demo
+  packageVersion: 1.0
+  assetPath: Assets/BikeLab/Bicycle/Scripts/Pedals.cs
+  uploadId: 672212

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 76a9a0ffdea797246bd4e0510a418865
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285425
+  packageName: Bike Lab Demo
+  packageVersion: 1.0
+  assetPath: Assets/BikeLab/Examples/RoadRacing/Materials/Green.mat
+  uploadId: 672212

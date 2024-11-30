@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a475ed6566d62d94ca107456cef4403b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285425
+  packageName: Bike Lab Demo
+  packageVersion: 1.0
+  assetPath: Assets/BikeLab/Examples/RoadRacing/Terrain/TrackRR.terrainlayer
+  uploadId: 672212

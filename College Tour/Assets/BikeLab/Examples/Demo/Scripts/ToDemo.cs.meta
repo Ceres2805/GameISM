@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 99a1cd2cfe7e5d44cbec9f2ecca1a154
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285425
+  packageName: Bike Lab Demo
+  packageVersion: 1.0
+  assetPath: Assets/BikeLab/Examples/Demo/Scripts/ToDemo.cs
+  uploadId: 672212

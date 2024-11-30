@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bdef389df066220468a943b558e7ef7f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285425
+  packageName: Bike Lab Demo
+  packageVersion: 1.0
+  assetPath: Assets/BikeLab/Examples/Segway/Materials/SegGround.mat
+  uploadId: 672212

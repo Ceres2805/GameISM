@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1e2c4fe780e098e428d4027c755ea6d7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285425
+  packageName: Bike Lab Demo
+  packageVersion: 1.0
+  assetPath: Assets/BikeLab/UnityAssets/UnityTechnologies/CrashScene/Prefabs/House_02.prefab
+  uploadId: 672212

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a38e39ada51aaba4db6d352ce218849e
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285425
+  packageName: Bike Lab Demo
+  packageVersion: 1.0
+  assetPath: Assets/BikeLab/UnityAssets/unity-chan!/Unity-chan! Model/Scripts/RandomWind.cs
+  uploadId: 672212

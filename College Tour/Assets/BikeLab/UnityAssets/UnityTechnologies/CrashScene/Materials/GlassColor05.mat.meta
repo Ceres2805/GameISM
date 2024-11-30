@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e7db25dd93c157a43a0967c7a06f3712
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285425
+  packageName: Bike Lab Demo
+  packageVersion: 1.0
+  assetPath: Assets/BikeLab/UnityAssets/UnityTechnologies/CrashScene/Materials/GlassColor05.mat
+  uploadId: 672212

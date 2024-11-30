@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c6d2b80b13db34e4888ae49acd6ac937
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285425
+  packageName: Bike Lab Demo
+  packageVersion: 1.0
+  assetPath: Assets/BikeLab/Materials/GreenOff.mat
+  uploadId: 672212

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f3b96c07b6f8d7f4ab9a9da9a75f3a3e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 13400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285425
+  packageName: Bike Lab Demo
+  packageVersion: 1.0
+  assetPath: Assets/BikeLab/Motoball/PhysicMaterials/WallMat.physicMaterial
+  uploadId: 672212

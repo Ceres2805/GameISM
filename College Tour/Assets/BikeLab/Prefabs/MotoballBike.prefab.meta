@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a8e2626719bf1fe4abbfa4b976d611fb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285425
+  packageName: Bike Lab Demo
+  packageVersion: 1.0
+  assetPath: Assets/BikeLab/Prefabs/MotoballBike.prefab
+  uploadId: 672212

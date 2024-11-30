@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 07933eb05b96fc44697f6420a2e9da6a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285425
+  packageName: Bike Lab Demo
+  packageVersion: 1.0
+  assetPath: Assets/BikeLab/UnityAssets/UnityTechnologies/CrashScene/Prefabs/Bench.prefab
+  uploadId: 672212

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d2e5ae5e5a5c2594990d4d6ed0ac952d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285425
+  packageName: Bike Lab Demo
+  packageVersion: 1.0
+  assetPath: Assets/BikeLab/Biker/Scripts/PoseTransfer.cs
+  uploadId: 672212

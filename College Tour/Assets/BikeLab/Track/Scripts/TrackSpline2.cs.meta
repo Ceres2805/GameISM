@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b1bb46898ae00c54692fc84e80fb2d28
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285425
+  packageName: Bike Lab Demo
+  packageVersion: 1.0
+  assetPath: Assets/BikeLab/Track/Scripts/TrackSpline2.cs
+  uploadId: 672212

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c8d38a1518b97a341980dea367b8b16a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 15600000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285425
+  packageName: Bike Lab Demo
+  packageVersion: 1.0
+  assetPath: Assets/BikeLab/Examples/RoadRacing/Terrain/SkTerrain.asset
+  uploadId: 672212

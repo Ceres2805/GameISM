@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: dab8c7ab9fffa964194c735866c73005
+timeCreated: 1553564085
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285425
+  packageName: Bike Lab Demo
+  packageVersion: 1.0
+  assetPath: Assets/BikeLab/UnityAssets/UnityTechnologies/CrashScene/Materials/Road02.mat
+  uploadId: 672212

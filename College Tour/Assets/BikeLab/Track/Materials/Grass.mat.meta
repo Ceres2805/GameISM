@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6e66a43426c3c2149bd0d3c069f6f453
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285425
+  packageName: Bike Lab Demo
+  packageVersion: 1.0
+  assetPath: Assets/BikeLab/Track/Materials/Grass.mat
+  uploadId: 672212

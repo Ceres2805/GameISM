@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dbb7e5198f5baa842b41ead19aad52d3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285425
+  packageName: Bike Lab Demo
+  packageVersion: 1.0
+  assetPath: Assets/BikeLab/UnityAssets/UnityTechnologies/CrashScene/Prefabs/Road.prefab
+  uploadId: 672212

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1fe16ed97ada6e1428af3d08787a9f8b
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285425
+  packageName: Bike Lab Demo
+  packageVersion: 1.0
+  assetPath: Assets/BikeLab/Examples/Bike/Scenes/bike.unity
+  uploadId: 672212

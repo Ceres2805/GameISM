@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c07aaf6ca965e634bb7f855eba1566f8
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285425
+  packageName: Bike Lab Demo
+  packageVersion: 1.0
+  assetPath: Assets/BikeLab/Examples/Segway/Scenes/Segway.unity
+  uploadId: 672212

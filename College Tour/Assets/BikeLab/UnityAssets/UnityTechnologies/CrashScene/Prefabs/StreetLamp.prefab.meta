@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 74c46626da9a223469f42f68ee982299
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285425
+  packageName: Bike Lab Demo
+  packageVersion: 1.0
+  assetPath: Assets/BikeLab/UnityAssets/UnityTechnologies/CrashScene/Prefabs/StreetLamp.prefab
+  uploadId: 672212

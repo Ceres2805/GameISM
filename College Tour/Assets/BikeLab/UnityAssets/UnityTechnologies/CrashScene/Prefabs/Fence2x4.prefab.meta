@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: eb4963bdd1747934b94cb5757cbe3eaf
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285425
+  packageName: Bike Lab Demo
+  packageVersion: 1.0
+  assetPath: Assets/BikeLab/UnityAssets/UnityTechnologies/CrashScene/Prefabs/Fence2x4.prefab
+  uploadId: 672212

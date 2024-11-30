@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3fe389d71c807f04cbd191af2b03ded9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285425
+  packageName: Bike Lab Demo
+  packageVersion: 1.0
+  assetPath: Assets/BikeLab/Bike/Materials/Trail.mat
+  uploadId: 672212

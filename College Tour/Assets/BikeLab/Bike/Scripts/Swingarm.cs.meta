@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c0e5ce9ce6df35844801bb71dbe64d32
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285425
+  packageName: Bike Lab Demo
+  packageVersion: 1.0
+  assetPath: Assets/BikeLab/Bike/Scripts/Swingarm.cs
+  uploadId: 672212

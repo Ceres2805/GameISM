@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f9a6009be712b5a489be2dfcf941fc36
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285425
+  packageName: Bike Lab Demo
+  packageVersion: 1.0
+  assetPath: Assets/BikeLab/Motoball/Materials/WallMB.mat
+  uploadId: 672212
