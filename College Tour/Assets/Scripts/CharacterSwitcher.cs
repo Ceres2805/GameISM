@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Runtime.InteropServices;
 using UnityEngine;
 
 public class CharacterSwitcher : MonoBehaviour
@@ -8,6 +9,7 @@ public class CharacterSwitcher : MonoBehaviour
     public GameObject cyclingCharacter; 
     private GameObject currentCharacter;
     public GameObject followObject;
+    public float camHieght;
 
     void Start()
     {
@@ -22,7 +24,7 @@ public class CharacterSwitcher : MonoBehaviour
         }
         if (currentCharacter != null && followObject != null)
         {
-            followObject.transform.position = new Vector3(currentCharacter.transform.position.x, currentCharacter.transform.position.y + 20.0f, currentCharacter.transform.position.z);
+            followObject.transform.position = new Vector3(currentCharacter.transform.position.x, currentCharacter.transform.position.y + camHieght, currentCharacter.transform.position.z);
             followObject.transform.rotation = Quaternion.Euler(currentCharacter.transform.rotation.eulerAngles.x + 90,
                                                          currentCharacter.transform.rotation.eulerAngles.y,
                                                          currentCharacter.transform.rotation.eulerAngles.z);            
