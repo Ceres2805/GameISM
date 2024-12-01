@@ -6,8 +6,8 @@ public class CharacterSwitcher : MonoBehaviour
 {
     public GameObject walkingCharacter; 
     public GameObject cyclingCharacter; 
-
     private GameObject currentCharacter;
+    public GameObject followObject;
 
     void Start()
     {
@@ -19,6 +19,13 @@ public class CharacterSwitcher : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.E)) 
         {
             SwitchCharacter();
+        }
+        if (currentCharacter != null && followObject != null)
+        {
+            followObject.transform.position = new Vector3(currentCharacter.transform.position.x, currentCharacter.transform.position.y + 20.0f, currentCharacter.transform.position.z);
+            followObject.transform.rotation = Quaternion.Euler(currentCharacter.transform.rotation.eulerAngles.x + 90,
+                                                         currentCharacter.transform.rotation.eulerAngles.y,
+                                                         currentCharacter.transform.rotation.eulerAngles.z);            
         }
     }
 
